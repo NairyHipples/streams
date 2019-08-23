@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "dasd",
+      "description": "asdasd",
+      "id": 1
+    },
+    {
+      "title": "Playing around with games",
+      "description": "Watch me play around with some random games for fun",
+      "id": 2
+    },
+    {
+      "title": "dada",
+      "description": "dada",
+      "id": 3
+    }
+  ]
+}
